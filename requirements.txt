@@ -1,0 +1,6 @@
+python-telegram-bot==21.6
+firebase-admin
+google-generativeai
+python-dotenv
+flask
+gunicorn
